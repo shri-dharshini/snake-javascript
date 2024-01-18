@@ -1,0 +1,17 @@
+html{
+    text-align: center;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    margin:0;
+    flex-direction: column;
+}
+
+div{
+    font-size:xx-large;
+    
+}
